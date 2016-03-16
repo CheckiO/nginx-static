@@ -1,0 +1,2 @@
+Nginx static with CORS
+======
